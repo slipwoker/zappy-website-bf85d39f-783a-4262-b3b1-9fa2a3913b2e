@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# יהוד שלי — Generative Engine Optimization Map
+
+> A תיעוד היסטורי ציבורי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://yehud-sheli.zappy5.app
 יהוד שלי מציעה תיעוד היסטורי דיגיטלי של יהוד עם סיפורים, תמונות וסרטונים המחברים אתכם למורשת המקומית. הצטרפו אלינו!
 
 ### הארכיון הדיגיטלי
-https://example.com/archive
+https://yehud-sheli.zappy5.app/archive
 גלו את הארכיון הדיגיטלי יהוד המקיף ביותר - תמונות היסטוריות, סרטונים, מסמכים ועדויות המתעדים את ההיסטוריה של יהוד.
 
 ### סיפורים וזיכרונות
-https://example.com/stories
+https://yehud-sheli.zappy5.app/stories
 קראו סיפורים אישיים וזיכרונות מרגשים של תושבי יהוד. תיעוד היסטורי של יהוד דרך עיני האנשים שחיו את ההיסטוריה.
 
 ### אודות
-https://example.com/about
+https://yehud-sheli.zappy5.app/about
 למדו על יהוד שלי - פרויקט תיעוד היסטורי של יהוד המוקדש לשימור והנגשת המורשת המקומית לכל הציבור הרחב.
 
 ### צור קשר
-https://example.com/contact
+https://yehud-sheli.zappy5.app/contact
 צרו קשר עם צוות יהוד שלי לשאלות, תרומות או השתתפות בפרויקט תיעוד היסטורי של יהוד. נשמח לשמוע מכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yehud-sheli.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yehud-sheli.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yehud-sheli.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About יהוד שלי
+יהוד שלי is a business in the תיעוד היסטורי ציבורי industry.
+
+## Target Audience
+הציבור הרחב, תושבי הישוב, חוקרים ולומדים
+
+## Industry
+תיעוד היסטורי ציבורי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://yehud-sheli.zappy5.app/sitemap.xml
+- **Robots.txt**: https://yehud-sheli.zappy5.app/robots.txt
